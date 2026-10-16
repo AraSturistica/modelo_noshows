@@ -1,0 +1,9 @@
+# Runtime versions; Gradio follows the Space metadata and XGBoost matches the model artifact.
+gradio==6.28.0
+xgboost==3.4.0
+shap==0.51.0
+pandas==3.0.6
+numpy==2.4.6
+scikit-learn==1.9.1
+matplotlib==3.11.2
+huggingface_hub>=1.16.0,<2.0
